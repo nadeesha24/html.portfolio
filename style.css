@@ -1,0 +1,16 @@
+body {
+    background-color: #fbd3ff;
+}
+h1 {
+    color: rgb(15, 15, 172);
+}
+p {
+    color: rgb(0, 0, 0);
+}
+footer {
+    text-align: center;
+    padding: 2pp;
+    background-color: #93c2c2;
+    color: #000;
+  }
+  
